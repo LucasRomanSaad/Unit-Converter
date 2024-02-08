@@ -1,21 +1,3 @@
-# c4vGDGS6
+# Unit Converter 
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+The Unit Conversion web application facilitates the quick conversion between metric and imperial units for length, volume, and mass. Users input a numerical value, and upon clicking the "CONVERT" button, the app calculates and displays the corresponding conversions in real-time. The application employs HTML for structuring the user interface, CSS for styling elements and providing a toggleable dark mode feature, and JavaScript for handling user interactions, performing calculations, and dynamically updating the displayed results. The dark mode functionality enhances user experience by offering an alternative color scheme for reduced eye strain in low-light environments. Overall, the app provides a convenient tool for users needing to convert between different measurement systems seamlessly.
